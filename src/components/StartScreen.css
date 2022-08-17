@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&display=swap');
+
+.start h1 {
+    font-size: 3.5em;
+    text-transform: uppercase;
+    font-family: 'DynaPuff', cursive;
+}
+
+.start p {
+    margin-bottom: 3em;
+    color: #ecfa00;
+}
